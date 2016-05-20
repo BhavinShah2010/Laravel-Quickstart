@@ -1,0 +1,83 @@
+
+
+
+/*
+    Note: It is best to use a less version of this file ( see http://css2less.cc
+    For the media queries use @screen-sm-min instead of 768px.
+    For .omb_spanOr use @body-bg instead of white.
+*/
+
+body{
+    background-color:#B0BEC5 !important ;
+}
+
+.social-login-btn {
+    margin: 5px;
+    width: 20%;
+    font-size: 250%;
+    padding: 0;
+}
+
+.social-google {
+    background-color: #da573b;
+    border-color: #be5238;
+}
+.social-google:hover{
+    background-color: #be5238;
+    border-color: #9b4631;
+}
+
+.social-twitter {
+    background-color: #1daee3;
+    border-color: #3997ba;
+}
+.social-twitter:hover {
+    background-color: #3997ba;
+    border-color: #347b95;
+}
+
+.social-facebook {
+    background-color: #4c699e;
+    border-color: #47618d;
+}
+.social-facebook:hover {
+    background-color: #47618d;
+    border-color: #3c5173;
+}
+
+.social-linkedin {
+    background-color: #4875B4;
+    border-color: #466b99;
+}
+.social-linkedin:hover {
+    background-color: #466b99;
+    border-color: #3b5a7c;
+}
+
+.social-github {
+    background: #666666;border-color:#333333
+}
+
+.social-pinterest {
+    background: #cc2127;border-color:#780004
+}
+
+.social-instagram{
+    background:  #3F729B;
+}
+.social-dropbox{
+    background: #1087DD;
+}
+
+
+.container-fluid {
+    text-align: center;
+    padding: 10px;
+
+}
+
+.container-fluid span{
+    color: #2e6da4;
+    font-size: 30px;
+}
+
